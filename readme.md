@@ -1,0 +1,32 @@
+Hi, I'm Jayant 👋
+
+Backend Engineer
+
+• Open Source Contributor to SearXNG
+• Full Stack Engineering Intern @ Marvedge
+• Java + Spring Boot
+• FastAPI
+• PostgreSQL
+• React
+• Docker
+• Redis
+
+Achievements
+
+✓ 300+ DSA Problems
+✓ 2 Merged PRs in SearXNG (33k★)
+✓ Built AI applications
+✓ Built scalable backend systems
+
+Projects
+
+🚀 PredictX
+🚀 Portfolio Website
+🚀 DemoHub
+🚀 Netflix GPT
+
+Let's Connect
+
+LinkedIn
+Portfolio
+Email
