@@ -27,6 +27,6 @@ Projects
 
 Let's Connect
 
-LinkedIn
-Portfolio
-Email
+LinkedIn :-https://www.linkedin.com/in/jayant-sharma-0a009328b/
+Portfolio :-https://portfolio-website-2-kappa-sage.vercel.app/
+Email :- jayantsharma3228@gmail.com
