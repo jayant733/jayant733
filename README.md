@@ -38,3 +38,9 @@ Building scalable backend systems and AI-powered applications.
 - LinkedIn: https://www.linkedin.com/in/jayant-sharma-0a009328b/
 - Portfolio: https://portfolio-website-2-kappa-sage.vercel.app/
 - Email: jayantsharma3228@gmail.com
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayant733/jayant733/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
